@@ -5,7 +5,7 @@ function callMe() {
   console.log("but here's my number..");
   console.log("so call me");
   return lyric;
-  
+
 }
 
 
@@ -28,6 +28,6 @@ function sayMyName() {
   function sayMy() {
     var name = "Kristin";
     console.log(name);
-    
+
   }
 }
